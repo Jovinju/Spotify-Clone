@@ -1,0 +1,18 @@
+<RCC>
+  <qresource>
+    <file>resources/pause-black.png</file>
+    <file>resources/play-black.png</file>
+    <file>resources/minus.png</file>
+    <file>resources/plus.png</file>
+    <file>resources/next.png</file>
+    <file>resources/pause.png</file>
+    <file>resources/play.png</file>
+    <file>resources/previous.png</file>
+    <file>resources/volume-low.png</file>
+    <file>resources/volume-max.png</file>
+    <file>resources/volume-medium.png</file>
+    <file>resources/volume-zero.png</file>
+    <file>resources/music.png</file>
+    <file>resources/icon.png</file>
+  </qresource>
+</RCC>
